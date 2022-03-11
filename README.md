@@ -17,7 +17,7 @@ SPAM Project는 여러 개의 셀(화분)이 존재하고 이 셀을 포함하�
 ## Activity Diagram
 ![액티비티 다이어그램](https://user-images.githubusercontent.com/49019204/152338809-194d83e6-f497-47aa-9fd3-d13cf4a9a429.png)
 ## 시연 영상
-[![(SPAM Project)시연 영상](https://youtu.be/wWoZ0FIkMTY/0.jpg)](https://youtu.be/wWoZ0FIkMTY)
+[![(SPAM Project)시연 영상](https://img.youtu.be/wWoZ0FIkMTY/0.jpg)](https://youtu.be/wWoZ0FIkMTY)
 ## 프로젝트 기능 설명
 ### 1. 셀 제어
 ### 2. 디바이스 제어
